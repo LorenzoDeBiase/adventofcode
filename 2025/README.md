@@ -1,6 +1,6 @@
 ## Solutions description
 
-1. Counts how many times a hand passes a specific hour on an analogue clock
+1. Count how many times a hand passes a specific hour on an analogue clock
    
 2. Substring repetitions to validate IDs in ranges
    
