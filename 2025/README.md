@@ -9,6 +9,6 @@
 7. Count the number of paths of a tachyon beam through a path that multiplies it without using brute force
 8. Connect the closest points in $\mathbb{R}^3$ in pairs until they are all connected
 9. Find the rectangle with maximum area contained in a polygon whose two opposite vertices (diagonally) are vertices of the polygon (uses the shapely library)
-10. Find le miminal(sum of the compontes) solution for a diofantine system in Z_2 and in Z (for Z uses the z3 library)
+10. Find le miminal(sum of the compontes) solution for a diofantine system in $\mathbb{Z}_2$ and in $\mathbb{Z}$ (for $\mathbb{Z}$ uses the z3 library)
 11. Find the number of path in a graph from a source to a destination (SPOILER: the graph is a dag)
 12. Fun with Christmas packages
